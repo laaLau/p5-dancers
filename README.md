@@ -6,7 +6,7 @@ This sketch was created during a 4-days workshop in Mainz in April 2019.
 The idea was visualizing the footsteps each dancer did during a 3-minutes-dance-play.
 
 Here you can see how it looks.
-
+![alt text](https://github.com/laaLau/p5-dancers/blob/master/shot6.png)
 
 #
 <h1>Realization</h1>
